@@ -1,6 +1,11 @@
 # proje_dizin_2
 
 
+
+![popeye-shirtless-wallpaper-preview](https://user-images.githubusercontent.com/114913842/197360012-45b58c23-f5df-4fa2-bbf4-0953fb925545.jpg)
+
+
+
 ## Proje Amacı
 **kalın kelime** <br/>
 *italik kelime*
@@ -14,6 +19,7 @@
 
 
 !(github wallpaper)(https://wallpaperaccess.com/github)
+
 
 
 
